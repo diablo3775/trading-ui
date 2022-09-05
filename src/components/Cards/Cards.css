@@ -2,9 +2,6 @@
   padding: 200px 0px 205px 87px;
   display: grid;
   grid-template-columns: 350px 350px 350px 350px 350px;
-  /* display: flex; */
-  /* justify-content: space-around; */
-  /* justify-content: space-between; */
 }
 
 .card {
@@ -175,34 +172,26 @@
 
 .solana {
   position: absolute;
-  width: 22px;
-  height: 22px;
   left: calc(50% - 22px/2 - 34.87px);
-  top: 9px;
+  top: 10px;
 }
 
 .solana1 {
   position: absolute;
-  width: 12.63px;
-  height: 2.46px;
   left: calc(50% - 12.63px/2 - 34.79px);
-  top: 15.05px;
+  top: 16.05px;
 }
 
 .solana2 {
   position: absolute;
-  width: 12.63px;
-  height: 2.46px;
   left: calc(50% - 12.63px/2 - 34.79px);
-  top: 18.74px;
+  top: 19.74px;
 }
 
 .solana3 {
   position: absolute;
-  width: 12.63px;
-  height: 2.46px;
   left: calc(50% - 12.63px/2 - 34.79px);
-  top: 22.49px;
+  top: 24.49px;
 }
 
 .eth {
@@ -263,8 +252,6 @@
 
 .binance2 {
   position: absolute;
-  width: 22px;
-  height: 22px;
   left: calc(50% - 22px/2 + 35.13px);
   top: 9px;
 }
@@ -279,8 +266,6 @@
 
 .binance1 {
   position: absolute;
-  width: 3.37px;
-  height: 3.37px;
   left: calc(50% - 3.37px/2 + 35.13px);
   top: 18.32px;
 }
